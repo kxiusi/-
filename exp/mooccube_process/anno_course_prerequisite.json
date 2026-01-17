@@ -1,0 +1,706 @@
+{"id": "C_course-v1:McGillX+ATOC185x+2015_T1", "name": "自然灾害（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+THESIS2015X+2015_T1", "name": "2015年清华大学研究生学位论文答辩（二）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+THESIS2014_1X_tv+_2014_", "name": "2014年清华大学研究生学位论文答辩（一）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+THESIS2015X_tv+2015_T1", "name": "2015年清华大学研究生学位论文答辩（一）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00690242+sp", "name": "文物精品与文化中国（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:HNU+HNU001+sp", "name": "现代礼仪（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00720091X+sp", "name": "足球运动与科学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00612642X+sp", "name": "《资治通鉴》导读(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00691153X+sp", "name": "不朽的艺术：走进大师与经典（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:UQx+Think101x+sp", "name": "日常思考的科学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+JWWCD001+2015_T2", "name": "教＆学微辞典", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+70660542X+2015_T2", "name": "法学高级入门（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+70120073X+sp", "name": "有限元分析及应用（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+10430575X+2019_T1"]}
+{"id": "C_course-v1:PekingX+Peking001x+_", "name": "慕课问道（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:UST+UST001+sp", "name": "网络技术与应用（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:SDUx+00931800X+sp", "name": "线性代数（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00690212X+sp", "name": "中国古代礼义文明（上）（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00680082X+sp", "name": "审美的历程（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30260112X+sp", "name": "微纳加工技术（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+00310222X+sp", "name": "创客培养：趣味力学实验与制作（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BIT+PHY1701702+sp", "name": "大学物理——电磁学（自主模式）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:BIT+PHY1701701+sp", "name": "大学物理——近代物理（自主模式）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:TsinghuaX+80515522X+sp", "name": "中国房地产发展之路(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+34000888X+sp", "name": "走进医学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00690092X+sp", "name": "逻辑学概论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00690342X+sp", "name": "西方哲学精神探源(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20350033X+sp", "name": "工程材料（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1", "C_course-v1:BNU+0910042801+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+00740043X_2015_T2+sp", "name": "C++语言程序设计基础（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00740043_2x_2015_T2+sp", "name": "C++语言程序设计进阶 (自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10610193X+sp", "name": "中国近现代史纲要（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:Tsinghuax+30130123X+sp", "name": "控制工程基础（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+40050444X+sp", "name": "大气污染控制工程（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30320174X+sp", "name": "核辐射物理及探测学(自主模式)", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1", "C_course-v1:TsinghuaX+20430064_2X+sp"]}
+{"id": "C_course-v1:TsinghuaX+00460032X+sp", "name": "应对气候变化的中国视角（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BIT+PHY1701601+sp", "name": "大学物理——力学与热学（自主模式）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:MicrosoftX+Microsoft101+sp", "name": "微软亚洲研究院大数据系列讲座（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BIT+PHY17016+sp", "name": "大学物理——振动、波动与光学（自主模式）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:TsinghuaX+MOOC101_2015_2+sp", "name": "e时代的大佬师——慕课教师的修炼心法（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+70250023X_2015_2+sp", "name": "线性系统理论（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+40250683X+2019_T1", "C_course-v1:GIT+0500002402+2019_T1", "C_course-v1:TsinghuaX+AP000013X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+10430484X_2015_2+sp", "name": "大学物理1 (力学、热学)(自主模式)", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+10430494X_2015_2+sp", "name": "大学物理2 (电磁学、光学和量子物理)(自主模式)", "prerequisites": ["C_course-v1:USTC+AP000011X+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+20220053X_2015_T2+sp", "name": "电工技术（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30150153X+sp", "name": "汽车发动机原理(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10421075X_2015_2+sp", "name": "微积分B(1)（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10421084X_2015_2+sp", "name": "微积分B(2)(自主模式)", "prerequisites": ["C_course-v1:TsinghuaX+AP000013X+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+20330334X_2015_2+sp", "name": "理论力学（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+0350161X_2015_T2+sp", "name": "材料学概论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10421102x_2015_T2+sp", "name": "线性代数(2)（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+AP000013X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+20430064X+sp", "name": "量子力学（上）(自主模式)", "prerequisites": ["C_course-v1:TsinghuaX+AP000013X+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+20250103X+sp", "name": "数字电子技术基础（自主模式）", "prerequisites": ["C_course-v1:GIT+0500002402+2019_T1", "C_course-v1:TsinghuaX+20220053X_2015_T2+sp"]}
+{"id": "C_course-v1:TsinghuaX+60240202X+sp", "name": "大数据平台核心技术（自主模式）", "prerequisites": ["C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:TsinghuaX+10421094X_2015_2+sp", "name": "线性代数(1)（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80150193X+sp", "name": "汽车碰撞安全基础(自主模式)", "prerequisites": ["C_course-v1:TsinghuaX+20330334X_2015_2+sp"]}
+{"id": "C_course-v1:TsinghuaX+30670043X+sp", "name": "传播学原理（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30150303X+sp", "name": "汽车造型设计二维表达(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:AdelaideX+Wine101x+sp", "name": "葡萄酒的世界：从葡萄到美酒（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:WellesleyX+HIST229x+sp", "name": "亚历山大大帝伟大吗？（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:MITx+6_00_1x+sp", "name": "计算机科学和Python编程导论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:MITx+15_390_2x+sp", "name": "创业102：你能为客户做什么？（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:WUT+WUT2016003+2016_T2", "name": "设计学原理(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+THESIS2016X_tv+2016_T1", "name": "2016年清华大学研究生学位论文答辩（二）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30140393X+sp", "name": "燃烧理论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30240184+sp", "name": "数据结构(上)(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+70167012X+sp", "name": "设计的人因与文化（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BJUT+2140074001x+sp", "name": "高级数据库系统（自主模式）", "prerequisites": ["C_course-v1:HBPU+20181226006X+2018_T2", "C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:TsinghuaX+30240184_2X+sp", "name": "数据结构(下)(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30240243X+sp", "name": "操作系统（自主模式）", "prerequisites": ["C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:TsinghuaX+80000822X+sp", "name": "适老居住空间与环境设计（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BSU+BSU001+sp", "name": "走近冬奥会（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40050455X+sp", "name": "水处理工程-生化技术（自主模式）", "prerequisites": ["C_course-v1:BNU+1010070372+2019_T1"]}
+{"id": "C_course-v1:MITx+6_002x+sp", "name": "电路与电子学 (Circuits and Electronics)(自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+60240013X+sp", "name": "组合数学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00740113_2X+sp", "name": "VC++面向对象与可视化程序设计（下）：MFC编程基础 (自主模式)", "prerequisites": ["C_course-v1:BIT+100070018+2019_T2"]}
+{"id": "C_course-v1:UC_BerkeleyX+CS_184_1x+sp", "name": "计算机图形学导论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+TsinghuaMandarin01+sp", "name": "对外汉语（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80590952X+sp", "name": "公共危机管理(自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00740113_1X+sp", "name": "VC++面向对象与可视化程序设计（上）：Windows编程基础 (自主模式)", "prerequisites": ["C_course-v1:BIT+100070018+2019_T2"]}
+{"id": "C_course-v1:UQx+BIOIMG101x+sp", "name": "生物医学成像学导论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:UQx+TROPIC101x+sp", "name": "热带海岸线生态系统(自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20120143X+sp", "name": "工程制图 （自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+70150023X+sp", "name": "汽车理论 (自主模式)", "prerequisites": ["C_course-v1:TsinghuaX+20330334X_2015_2+sp", "C_course-v1:TsinghuaX+40150442+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:RiceX+AdvENVSCI_1x+sp", "name": "AP*备考——环境科学，第一部分：生物界(自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+34100325_X+sp", "name": "软件工程（自主模式）", "prerequisites": ["C_course-v1:SCUT+145055+2018_T2", "C_course-v1:HBPU+20181226006X+2018_T2"]}
+{"id": "C_course-v1:TsinghuaX+40050455_2X+sp", "name": "水处理工程-物化技术（自主模式）", "prerequisites": ["C_course-v1:BNU+1010070372+2019_T1"]}
+{"id": "C_course-v1:RiceX+BIOC372_1x+sp", "name": "免疫学基础——第Ⅰ部分（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:RiceX+BIOC372_2x+sp", "name": "免疫学基础——第Ⅱ部分(自主模式）", "prerequisites": []}
+{"id": "C_course-v1:RiceX+AdvBIO_1x+sp", "name": "AP*备考——生物学，第一部分：细胞（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:RiceX+AdvBIO_2x+sp", "name": "AP*备考——生物学，第二部分：遗传学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30040323X+sp", "name": "水力学（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+20330334X_2015_2+sp", "C_course-v1:SXPI+20171101002+sp", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:RiceX+AdvBIO_3x+sp", "name": "AP*备考——生物学，第三部分：演化和多样性（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:edX+BlendedX+sp", "name": "混合式学习（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:RiceX+AdvBIO_4x+sp", "name": "AP*备考——生物学，第四部分：生态学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20430064_2X+sp", "name": "量子力学（下）（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+AP000013X+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:RiceX+AdvENVSCI_2x+sp", "name": "AP*备考——环境科学，第二部分：种群（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:RiceX+AdvENVSCI_3x+sp", "name": "AP*备考——环境科学，第三部分：污染和资源（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:Tsinghua+20150001+sp", "name": "如何写好科研论文（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:UQx+Crime101x+sp", "name": "刑事审判心理学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00040132X+sp", "name": "宝玉石鉴赏（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:RiceX+RELI157x+sp", "name": " 宗教和嘻哈文化（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00740123_X+sp", "name": "Java程序设计（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+64100033X+SP", "name": "大数据系统基础（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+30240243X+sp"]}
+{"id": "C_course-v1:TsinghuaX+60610231+2016_T2_SP", "name": "工程伦理（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:JXUST+JXUST2016001+2016_T2", "name": "人工智能（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:NJU+C1026+2016_T2", "name": "计算机操作系统（自主模式）", "prerequisites": ["C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:ZUELX+B0800280+sp", "name": "内部控制与风险管理（自主模式）", "prerequisites": ["C_course-v1:BNU+0210021441+2019_T1"]}
+{"id": "C_course-v1:NBCC+NBCC000201+_sp", "name": "Linux系统管理（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+01030132X+sp", "name": "大学历史与文化（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:DelftX+ET3034x+sp", "name": "太阳能（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:ZJUX+2017011101X+2017_T1", "name": "环境工程CAD（自主模式）", "prerequisites": ["C_course-v1:HUBU+HU08001X+2019_T1", "C_course-v1:TsinghuaX+40050444X+2019_T1"]}
+{"id": "C_course-v1:NUDT+125205501+sp", "name": "公共管理学（自主模式）", "prerequisites": ["C_course-v1:BNU+0210021441+2019_T1"]}
+{"id": "C_course-v1:WUT+1022817X+sp", "name": "互联网大规模数据分析技术（自主模式）", "prerequisites": ["C_course-v1:HBPU+20181226006X+2018_T2"]}
+{"id": "C_course-v1:USTC+2017011401X+2017_T1", "name": "互联网体系结构", "prerequisites": ["C_course-v1:SCUT+145033+sp"]}
+{"id": "C_course-v1:USTC+2017011402X+2017_T1", "name": "Web安全实践", "prerequisites": []}
+{"id": "C_course-v1:NUDT+2017011401X+2017_T1", "name": "电子政务（自主模式）", "prerequisites": ["C_course-v1:NUDT+125205501+sp"]}
+{"id": "C_course-v1:TsinghuaX+80240372X+sp", "name": "数据挖掘：理论与算法（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+AP000013X+2019_T1", "C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:TsinghuaX+Thesis2016X+sp", "name": "2016年清华大学研究生学位论文答辩（一）", "prerequisites": []}
+{"id": "C_course-v1:NCTU+wghx+2017_T1", "name": "微观化学世界（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20440333X+sp", "name": "有机化学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00701032X+sp", "name": "美国政治概论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:HUBU+HU08002X+sp", "name": "运动与健康（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:HUBU+HU08003X+sp", "name": "运动与解剖学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:HUBU+20170227X+sp", "name": "大学葡萄牙语（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:HUBU+2017022703X+sp", "name": "英语语音（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+2070071X+2017_T1", "name": "大学生心理健康（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:WUT+WUT2016001+sp", "name": "网络、群体与市场（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BIT+BIT2016001+sp", "name": "软件工程与软件自动化（自主模式）", "prerequisites": ["C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:HUBU+2017030501X+sp", "name": "电路与电工实验（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1", "C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:HIT+HIT2016002+sp", "name": "高山滑雪（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:HIT+HIT2016001+sp", "name": "冰壶（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80140242+sp", "name": "介质辐射传热（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+81020142X+sp", "name": "IC设计与方法（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+Pr20170406-SC_p1+sp", "name": "智能车制作：嵌入式系统", "prerequisites": []}
+{"id": "C_course-v1:GXUST+2017041901X+2017_T1", "name": "计算思维导论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BNU+GE410081071-01+2017_T1", "name": "循环经济与可持续发展型企业(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:FudanX+SOSC120007+sp", "name": "货币金融学（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+THUSEM002+2019_T1", "C_course-v1:FUDANx+ECON13000701+2019_T1"]}
+{"id": "C_course-v1:JNUX+07009156X+sp", "name": "中医与诊断-学做自己的医生（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00690212X-2+sp", "name": "中国古代礼义文明（下）（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+00690212X-2+sp"]}
+{"id": "C_course-v1:ZUELX+B0601353+sp", "name": "组织行为学——如何有效管理员工行为（自主模式）", "prerequisites": ["C_course-v1:BNU+0210021441+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+80000901X_2+sp", "name": "中国建筑史（下）（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+80000901X_1+sp"]}
+{"id": "C_course-v1:TsinghuaX+30640014X+sp", "name": "生活英语听说（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:McGillX+Chem181x+sp", "name": "食物与健康（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30806872X+sp", "name": "生活、艺术与时尚：中国服饰七千年（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30700313X+sp", "name": "心理学概论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:SEU+00690803+sp", "name": "大学国文（下）（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10800163X+sp", "name": "艺术的启示（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00690302_2+sp", "name": "携手向花间——昆曲经典剧目欣赏（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:DYU+dyuwgzbbm+sp", "name": "财务报表：为公司把把脉(自主模式)", "prerequisites": ["C_course-v1:HUST+0200421+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+10800032X+sp", "name": "外国工艺美术史（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:WellesleyX+ANTH207x+sp", "name": "人类进化导论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80000901X_1+sp", "name": "中国建筑史（上）(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80611322X+sp", "name": "教育社会学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00612643X+sp", "name": "大唐兴衰（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+90640012X+sp", "name": "生活英语读写（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:ACCA+MA1_X+sp", "name": "初级管理会计(自主模式)", "prerequisites": ["C_course-v1:ACCA+FA1_X+2019_T1"]}
+{"id": "C_course-v1:CUPB+CUPB201702+sp", "name": "中国石油文化（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10610224X+sp", "name": "毛泽东思想和中国特色社会主义理论体系概论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:SEU+00690803+Sp", "name": "大学国文（上）(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00690302_1+sp", "name": "原来姹紫嫣红开遍——昆曲艺术欣赏（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+400182X+sp", "name": "医的奥秘（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10691113X+sp", "name": "西方思想经典与现代社会（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:RiceX+MedDigX+sp", "name": "数字时代的医学(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:WageningenX+NUTR101x+sp", "name": "营养与健康(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:ACCA+MA2_X+sp", "name": "中级管理会计(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20220332X+sp", "name": "日语与日本文化(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00670122X+sp", "name": "现代生活美学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+THU201605X+sp", "name": "信息素养——学术研究的必修课（通识版）(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+02070251X+sp", "name": "职业探索与选择（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:XJTU+ME-XMGL2013-014X+sp", "name": "项目采购与合同管理（自主模式）", "prerequisites": ["C_course-v1:CIE+CIE2017002+2019_T1", "C_course-v1:BNU+0210021441+2019_T1", "C_course-v1:FUDANx+ECON13000701+2019_T1"]}
+{"id": "C_course-v1:MIL+MIL2016001+sp", "name": "我国周边14个陆地邻国基本情况介绍(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:JinanX+2017031001X+sp", "name": "华文教学的理念与方法(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40260092X+sp", "name": "集成传感器(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10610183_2X+sp", "name": "思想道德修养与法律基础 (自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40160092X+sp", "name": "生产计划与控制（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+TSINGHUA107+sp", "name": "经典与思考——人文清华大师面对面（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:AdelaideX+humbio101+sp", "name": "基本人体生物学：细胞和组织（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40990255X_1+sp", "name": "暖通空调(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30040352X+sp", "name": "地下水文学（水文学原理及应用（2））（自主模式）", "prerequisites": ["C_course-v1:SichuanU+306197030+2019_T1", "C_course-v1:TsinghuaX+30040323X+sp"]}
+{"id": "C_course-v1:TsinghuaX+70612463X+sp", "name": "基于R语言的社会统计分析（自主模式）", "prerequisites": ["C_course-v1:CQU+MATH20041X+2019_T1", "C_course-v1:TsinghuaX+AP000013X+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+20250064X+sp", "name": "模拟电子技术基础(应用部分)（自主模式）", "prerequisites": ["C_course-v1:GIT+0500002402+2019_T1"]}
+{"id": "C_course-v1:FUDANx+ECON1300812+sp", "name": "金融工程(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00690863X+sp", "name": "唐宋词鉴赏(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:JSUX+2017011101X+sp", "name": "艺术心理学(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:TJU+2010241X+sp", "name": "园林植物景观学原理与方法(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:ZUEL+B0680090+sp", "name": "经济地理与企业兴衰(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:ACCA+FA2_X+sp", "name": "中级财务会计(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:ACCA+FA1_X+sp", "name": "初级财务会计（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:HEBNU+2017011901X+sp", "name": "模拟电子技术基础(自主模式)", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:Tsinghua+Thesis2017X+2017_T1", "name": "2017年清华大学研究生学位论文答辩（一）", "prerequisites": []}
+{"id": "C_course-v1:ICx+Spanish001+sp", "name": "西班牙语很容易 El español es fácil（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80000271X+sp", "name": "住宅精细化设计(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:HUBU+20170619001+sp", "name": "环境生态学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:ZJFF+000516+sp", "name": "商务礼仪（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:XJTU+COMP200853+sp", "name": "微机原理与接口技术（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:HAUT+2017070701X+sp", "name": "有机化学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2017071001X+2017_sp", "name": "环境地学原理（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:UESTC+2017071301X+sp", "name": "嵌入式系统设计", "prerequisites": ["C_course-v1:BIT+100070018+2019_T2"]}
+{"id": "C_course-v1:XJTU+PHLS100914+sp", "name": "医学伦理学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:XJTU+C00204+sp", "name": "中国哲学经典著作导读（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:GZHU+000001004+sp", "name": "中国近现代史纲要（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:GZHU+136300904+sp", "name": "生死学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BJTU+2017072501X+sp", "name": "技术创新简史（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:NU+2017081001X+sp", "name": "物理与人类未来（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:CQU+ICE20012+sp", "name": "卡通说解数字电子技术（自主模式）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:SPI+40281x+sp", "name": "PLC应用技术（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:SPI+20170828001x+sp", "name": "电气控制系统装接与调试（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:KMUSTX+8209001+sp", "name": "生活中的市场营销学(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:EST+20170914+sp", "name": "测试系统集成技术(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:MIT_SLT_Lab+161x+sp", "name": "创新土地再开发：土地整备（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20220332X_1+2017_T2", "name": "日语与日本文化（2）", "prerequisites": []}
+{"id": "C_course-v1:HEBUT+20170921001+sp", "name": "工程图学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:JNUX+jnu05011190X+sp", "name": "华文趣味教学法（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:SICT+2017092601+sp", "name": "智能设备应用开发（基于Android平台）（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:SCUT+145055+sp", "name": "数据结构（Data Structures）（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:JNU+07009215+sp", "name": "自然保护与生态安全：拯救地球家园", "prerequisites": []}
+{"id": "C_course-v1:SXPI+20171101002+sp", "name": "高等数学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:YMY+20171108001+sp", "name": "关爱健康·从齿开启 ", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20250064+sp", "name": "模拟电子技术基础(基础部分)(自主模式)", "prerequisites": ["C_course-v1:GIT+0500002402+2019_T1", "C_course-v1:TsinghuaX+20220053X_2015_T2+sp"]}
+{"id": "C_course-v1:LZU+20171113+SP", "name": "室内花草栽培技术与装饰布景（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:FAFU+20171121001+2017_T1", "name": "寄生虫与公共卫生（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:WHUT+20171128+sp", "name": "产品开发设计（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:CUNY+20171211001+sp", "name": "网络安全概述（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+Thesis2018+sp", "name": "2017年清华大学研究生学位论文答辩（二）", "prerequisites": []}
+{"id": "C_course-v1:JNU+07040146+2018_T1", "name": "细胞生物学：细胞社会的奥秘（2018春）", "prerequisites": ["C_course-v1:TsinghuaX+10450034_1X_2X+2019_T1"]}
+{"id": "C_course-v1:RiceX+Phys102x+sp", "name": "Electricity & Magnetism", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1", "C_course-v1:TsinghuaX+10430575X+2019_T1"]}
+{"id": "C_course-v1:MITx+2_03x+sp", "name": "动力学", "prerequisites": ["C_course-v1:USTC+AP000011X+2019_T1", "C_course-v1:TsinghuaX+10430575X+2019_T1"]}
+{"id": "C_course-v1:UC_BerkeleyX+CS169_2x+sp", "name": "软件即服务 (SaaS) - 第 2 部分", "prerequisites": []}
+{"id": "C_course-v1:cup+20180130+sp", "name": "催化剂设计与制备", "prerequisites": []}
+{"id": "C_course-v1:XIYOU+20180208+sp", "name": "编译技术", "prerequisites": ["C_course-v1:TsinghuaX+20240103X+2019_T1", "C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:GZLIS+070200140+2018_T1", "name": "印刷色彩基础与实务", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00670122+sp", "name": "现代生活美学进阶（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:PasteurX+96008+sp", "name": "结核病 （自主模式）", "prerequisites": []}
+{"id": "C_course-v1:LUIBE+2018030701+sp", "name": "揭开潜意识心理的奥秘", "prerequisites": []}
+{"id": "C_course-v1:JNU+03010100+sp", "name": "法律人看婚姻家事（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+2018032801X+2018_T1", "name": "学做小程序", "prerequisites": []}
+{"id": "C_course-v1:dlmu+20180330+sp", "name": "实用绳结技术（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:dlmu+20180403+sp", "name": "轮机自动化（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:QHU+20180419+sp", "name": "丝路南线民间文学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:HNU+20180424001+2018_T1", "name": "马克思主义基本原理（1）", "prerequisites": []}
+{"id": "C_course-v1:MIT_SLT_Lab+162x+2018_T1", "name": "社会责任地产开发：学习使用影响评估工具", "prerequisites": ["C_course-v1:TsinghuaX+THUSEM002+2019_T1"]}
+{"id": "C_course-v1:JNU+07009188+2018_T2", "name": "力学与现代生活——开启科学人生", "prerequisites": []}
+{"id": "C_course-v1:JNU+2018012501X+sp", "name": "民法与生活", "prerequisites": []}
+{"id": "C_course-v1:SCUEC+0171229001+sp", "name": "Hello,心理学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:SCUT+145033+sp", "name": "计算机网络（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:NJU+2018032001X+sp", "name": "心理学与生活(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:Stanford+WomensHealth+sp", "name": "妇女健康和权益 International Women's Health and Human Rights（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:NJU+2018032002X+SP", "name": "手把手教你心理咨询：谈话的艺术(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:BerkeleyX+CS169_1X+sp", "name": "云计算与软件工程", "prerequisites": []}
+{"id": "C_course-v1:NJU+37204001+2018_T3", "name": "学在南哲：哲学与哲人", "prerequisites": []}
+{"id": "C_course-v1:CSU+210102T10+sp", "name": "大学生心理健康教育（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:CSU+2018020201X+sp", "name": "主题英语（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:CSU+210201T10+sp", "name": "中国近现代史纲要（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:NCEPU+20180628001+2018_T2", "name": "自动化专业概论", "prerequisites": ["C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:BJTU+2017052601X+2018_T2", "name": "技术创新简史（2018秋）", "prerequisites": []}
+{"id": "C_course-v1:CCI+ccioo1+2018_T3", "name": "医疗器械与医学创新", "prerequisites": []}
+{"id": "C_course-v1:ZUELX+B0601353+2018_T2", "name": "组织行为学——如何有效管理员工行为（2018秋）", "prerequisites": ["C_course-v1:BNU+0210021441+2019_T1"]}
+{"id": "C_course-v1:ZUELX+B0800280+2018_T2", "name": "内部控制与风险管理（2018秋）", "prerequisites": ["C_course-v1:BNU+0210021441+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+20430054X1+sp", "name": "电动力学（上）（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1", "C_course-v1:TsinghuaX+AP000002X+2019_T1", "C_course-v1:TsinghuaX+20330334X_2015_2+sp"]}
+{"id": "C_course-v1:TsinghuaX+20430054X_1+sp", "name": "电动力学（下）（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1", "C_course-v1:TsinghuaX+AP000002X+2019_T1", "C_course-v1:TsinghuaX+20330334X_2015_2+sp"]}
+{"id": "C_course-v1:TsinghuaX+20140064X+2018_sp", "name": " 工程热力学（上）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+20140064_2X+2018_sp", "name": " 工程热力学（下）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:NUDT+05028103+2018_T2", "name": "大学英文写作（上）（2018秋）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2017001+2018_T2", "name": "环境污染事件与应急响应（2018秋）", "prerequisites": []}
+{"id": "C_course-v1:SJU+2018072301+sp", "name": "交互设计（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:SXPI+20171101005+2018_T2", "name": "思想道德修养与法律基础(2018秋)", "prerequisites": []}
+{"id": "C_course-v1:NBCC+013G29A00+2018_T2", "name": "劳动关系实务操作（2018秋）", "prerequisites": ["C_course-v1:JNU+11020009+2019_T1"]}
+{"id": "C_course-v1:FAFU+20180104002+sp", "name": "邮票上的昆虫世界(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:SCUT+145055+2018_T2", "name": "数据结构（Data Structures）（2018秋）", "prerequisites": []}
+{"id": "C_course-v1:SichuanU+304231020+sp", "name": "智能时代下的创新创业实践(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:CityU+GE2304+sp", "name": "创新创业基础", "prerequisites": []}
+{"id": "C_course-v1:CSU+82150112201+2018_T2", "name": "循证医学（2018寒假班）", "prerequisites": []}
+{"id": "C_course-v1:NEU+2018051501+sp", "name": "软件工程（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+30240532X+2019_T1", "C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:CSU+82150112201+sp", "name": "循证医学（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:UESTC+E2216230+2018_T2", "name": "数据库系统原理与开发", "prerequisites": ["C_course-v1:NJU+C1026+2016_T2", "C_course-v1:TsinghuaX+30240233X+2019_T1", "C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:TsinghuaX+Intro2EltrMrt+2018_T2", "name": "电力市场概论(2019春)", "prerequisites": []}
+{"id": "C_course-v1:CSU+20180918X+2018_T2", "name": "思想道德修养与法律基础（中南大学）", "prerequisites": []}
+{"id": "C_course-v1:gmc+30102+2018_T2", "name": "病理生理学", "prerequisites": []}
+{"id": "C_course-v1:gmc+306702+2018_t2", "name": "药物化学", "prerequisites": ["C_course-v1:TsinghuaX+20440333X+2019_T1"]}
+{"id": "C_course-v1:jlu+20180925+2018_T2", "name": "汽车行走的艺术", "prerequisites": []}
+{"id": "C_course-v1:NBCC+031J33B00+sp", "name": "“做中学”Java程序设计(自主模式)", "prerequisites": []}
+{"id": "C_course-v1:KMUSTX+1803168+2018_T2", "name": "基因工程", "prerequisites": ["C_course-v1:BNU+1010070372+2019_T1", "C_course-v1:CSU+25071011201+2019_T1"]}
+{"id": "C_course-v1:Tsinghua+20181011X+2018_T2", "name": "青年AI自强计划-计算机视觉课程", "prerequisites": []}
+{"id": "C_course-v1:gmc+3060511+2018_T2", "name": "药剂学", "prerequisites": []}
+{"id": "C_course-v1:PSFFC+2018102402X+2018_T2", "name": "工业企业消防安全", "prerequisites": ["C_course-v1:PSFFC+2018102405X+2018_T2"]}
+{"id": "C_course-v1:PSFFC+2018102403X+2018_T2", "name": "建筑消防安全", "prerequisites": []}
+{"id": "C_course-v1:PSFFC+2018102404X+2018_T2", "name": "灭火战术", "prerequisites": []}
+{"id": "C_course-v1:PSFFC+2018102405X+2018_T2", "name": "消防燃烧学", "prerequisites": []}
+{"id": "C_course-v1:PSFFC+2018102406X+2018_T2", "name": "消防应急救援", "prerequisites": []}
+{"id": "C_course-v1:BNU+CSL21148501+2018_T2", "name": "汉语文字词汇", "prerequisites": []}
+{"id": "C_course-v1:XJAU+246010007+2018_T2", "name": "Python 交互式程序设计导论", "prerequisites": []}
+{"id": "C_course-v1:JNU+077901mc08+2018_T3", "name": "生物医药实验室安全知识（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:YLVTC+2018111301X+2018_T2", "name": "市场营销技能", "prerequisites": []}
+{"id": "C_course-v1:IMUN+5016105+2019_T1", "name": "中国古代文学", "prerequisites": []}
+{"id": "C_course-v1:HLJUX+1811012013+2018_T2", "name": "中华诗词经典吟唱", "prerequisites": []}
+{"id": "C_course-v1:GIT+0500002402+2018_T2", "name": "电路原理", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1", "C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:BNU+CSL21126882+2019_T1", "name": "应用语言学理论与实践", "prerequisites": []}
+{"id": "C_course-v1:SWPU+3615001035+2019_T1", "name": "钻井与完井工程（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+10430575X+2019_T1"]}
+{"id": "C_course-v1:BNU+2017112001X+2019_T1", "name": "史学名家的治史历程与方法（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SHZU+Z104021+2019_T1", "name": "药物分析（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+20440333X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+60700052X+2019_T1", "name": "数据科学导论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:LinuxFoundationX+Linux001+sp", "name": "Linux导论（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+70150104X+2019_T1", "name": "动态测试与分析（上）2019春", "prerequisites": ["C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:TsinghuaX+70150104_2X+2019_T1", "name": "动态测试与分析（下）2019春", "prerequisites": ["C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:BNU+GOV21089621+2019_T1", "name": "定性研究方法（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+30590023+2019_T1"]}
+{"id": "C_course-v1:SDSNAssociation+ASD+sp", "name": "Age of Sustainable Development", "prerequisites": []}
+{"id": "C_course-v1:WUT+WUT2016001+2019_T1", "name": "网络、群体与市场（2019春）", "prerequisites": []}
+{"id": "C_course-v1:WUST+20180821002X+2019_T1", "name": "创业学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2018091301X+2019_T1", "name": "运动与减脂塑形（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2018091303X+2019_T1", "name": "运动与慢病防治（2019春）", "prerequisites": []}
+{"id": "C_course-v1:JNUX+2018120406X+2018_T2", "name": "数学建模", "prerequisites": []}
+{"id": "C_course-v1:NEU+20181206X+2018_T2", "name": "材料现代研究方法", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1", "C_course-v1:SXPI+20171101002+sp", "C_course-v1:TsinghuaX+AP000013X+2019_T1"]}
+{"id": "C_course-v1:QHU+20180419+2019_T1", "name": "丝路南线民间文学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2018091304X+2019_T1", "name": "运动与体能提升（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2018091305X+2019_T1", "name": "武术与强身避险（2019春）", "prerequisites": []}
+{"id": "C_course-v1:ZZU+2018032501X+2019_T1", "name": "信息技术与教育应用（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2018091302X+2019_T1", "name": "运动与关节健康（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80240372X+2019_T1", "name": "数据挖掘：理论与算法（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000013X+2019_T1", "C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:SDSNAssociation+PB+sp", "name": "Planetary Boundaries", "prerequisites": []}
+{"id": "C_course-v1:HNU+20180529001+2019_T1", "name": "设计的力量（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+01510192X+2019_T1", "name": "创业导引——与创业名家面对面（2019春）", "prerequisites": []}
+{"id": "C_course-v1:qhnu+20181212x+2018_T2", "name": "藏语言文字学概论", "prerequisites": []}
+{"id": "C_course-v1:CIE+CIE2016005+2019_T1", "name": "创业领导力：美国宇航局的4D卓越团队明星课（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CIE+CIE2017005+2019_T1", "name": "创业实践案例课程（2019春）", "prerequisites": []}
+{"id": "C_course-v1:ZZU+20180116001+2019_T1", "name": "科举与唐诗（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CIE+CIE2017008+2019_T1", "name": "创业私董会（2019春）", "prerequisites": []}
+{"id": "C_course-v1:XJTU+2018121301X+2018_T2", "name": "牙周病学", "prerequisites": []}
+{"id": "C_course-v1:CIE+CIE2016004+2019_T1", "name": "复盘：让创业不败的方法论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CIE+CIE2017004+2019_T1", "name": "创业成功第一步：写好商业计划书（2019春）", "prerequisites": []}
+{"id": "C_course-v1:WUT+1022817X+2019_T1", "name": "互联网大规模数据分析技术（2019春）", "prerequisites": ["C_course-v1:HBPU+20181226006X+2018_T2"]}
+{"id": "C_course-v1:CIE+JD_2017+2019_T1", "name": "万众创新第一课：创新总论与技术产业化（2019春）", "prerequisites": []}
+{"id": "C_course-v1:MITx+15_390_2x+2019_T1", "name": "创业102：你能为客户做什么？（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CIE+CIE2017002+2019_T1", "name": "项目管理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CIE+CIE2017001+2019_T1", "name": "创新创业心理学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CIE+CIE2016002+2019_T1", "name": "创业失败：原因与出路（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+GE410081071-01+2019_T1", "name": "循环经济与可持续发展型企业（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HIT+HIT2016001+2019_T1", "name": "冰壶运动（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+ENV21105101+2019_T1", "name": "固体废物处置与资源化（2019春）", "prerequisites": ["C_course-v1:BNU+1010070372+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+00510663X+2019_T1", "name": "商学导论：10节课带你走进商业世界(2019春)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00690242X+2019_T1", "name": "文物精品与文化中国（2019春）", "prerequisites": []}
+{"id": "C_course-v1:FZXY+20171127004+2019_T1", "name": "灾害风险管理（2019春）", "prerequisites": ["C_course-v1:FUDANx+ECON13000701+2019_T1", "C_course-v1:FZXY+20171127004+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+00040132X+2019_T1", "name": "宝玉石鉴赏（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00691153X+2019_T1", "name": "不朽的艺术：走进大师与经典（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10800163X+2019_T1", "name": "艺术的启示（2019春 ）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00670122X+2019_T1", "name": "现代生活美学——插花之道（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30806872X+2019_T1", "name": "生活、艺术与时尚：中国服饰七千年（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SDSNAssociation+CSN+sp", "name": "Climate Change Science and Negotiations", "prerequisites": []}
+{"id": "C_course-v1:SDSNAssociation+ECD001+sp", "name": "The Best Start in Life: Early Childhood Development for Sustainable Development", "prerequisites": []}
+{"id": "C_course-v1:SDSNAssociation+C21001+sp", "name": "Cities and the Challenge of Sustainable Development", "prerequisites": []}
+{"id": "C_course-v1:SDSNAssociation+TOW001+sp", "name": "Transforming Our World", "prerequisites": []}
+{"id": "C_course-v1:SDSNAssociation+SC001+sp", "name": "Sustainable Cities", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10800032X+2019_T1", "name": "外国工艺美术史（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00670122+2019_T1", "name": "现代生活美学进阶（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+THU201605X+2019_T1", "name": "信息素养——学术研究的必修课（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30805743+2019_T1", "name": "视觉语言（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40510293X+2019_T1", "name": "金融工程导论（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+20180919X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+30670043X+2019_T1", "name": "传播学原理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00740123X+2019_T1", "name": "Java程序设计（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+2018031901X+2019_T1", "name": "习近平新时代中国特色社会主义思想：新发展理念（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HNU+GE14068+2019_T1", "name": "孙子兵法（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10691113X+2019_T1", "name": "西方思想经典与现代社会（2019春）", "prerequisites": []}
+{"id": "C_course-v1:FJNU+5000320201+2019_T1", "name": "走进性科学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HUBU+20170227X+2019_T1", "name": "大学葡萄牙语（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00510133X+2019_T1", "name": "会计学原理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00720091X+2019_T1", "name": "足球运动与科学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30240532X+2019_T1", "name": "面向对象程序设计（C++）（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+30240233X+2019_T1"]}
+{"id": "C_course-v1:YSU+20180301002+2019_T1", "name": "线性代数（简明版）（2019春）", "prerequisites": []}
+{"id": "C_course-v1:MUC+24040004+2019_T1", "name": "唐史四讲(2019春)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20150001+2019_T1", "name": "如何写好科研论文（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00612642X+2019_T1", "name": "《资治通鉴》导读（2019春）", "prerequisites": []}
+{"id": "C_course-v1:MUC+2018031801X+2019_T1", "name": "影像中的人类学(2019春)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+70612463X+2019_T1", "name": "基于R语言的社会统计分析（2019春）", "prerequisites": ["C_course-v1:CQU+MATH20041X+2019_T1", "C_course-v1:TsinghuaX+AP000013X+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+00690863X+2019_T1", "name": "唐宋词鉴赏（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00612643X+2019_T1", "name": "大唐兴衰（2019春）", "prerequisites": []}
+{"id": "C_course-v1:MUC+050104+2019_T1", "name": "中国少数民族神话赏析(2019春)", "prerequisites": []}
+{"id": "C_course-v1:UQx+Think101x+2019_T1", "name": "日常思考的科学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:KMUSTX+1193004+2019_T1", "name": "极速悟透3ds Max（2019春）", "prerequisites": []}
+{"id": "C_course-v1:KMUSTX+1153036+2019_T1", "name": "职场菜鸟礼仪指南（2019春）", "prerequisites": []}
+{"id": "C_course-v1:KMUSTX+2018091101X+2019_T1", "name": "教你孕育健康宝贝（2019春）", "prerequisites": []}
+{"id": "C_course-v1:LZU+2018122505X+2018_T2", "name": "马克思主义基本原理概论", "prerequisites": []}
+{"id": "C_course-v1:XJTU+2018122507X+2018_T2", "name": "呼吸系统疾病", "prerequisites": []}
+{"id": "C_course-v1:YIT+2018122509X+2018_T2", "name": "大学计算机基础与应用", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+400182X+2019_T1", "name": "医的奥秘（2019春）", "prerequisites": []}
+{"id": "C_course-v1:YLVTC+2018122511X+2018_T2", "name": "植物组织培养技术", "prerequisites": []}
+{"id": "C_course-v1:CWU+2018122606X+2018_T2", "name": "家庭理财", "prerequisites": ["C_course-v1:FUDANx+ECON13000701+2019_T1"]}
+{"id": "C_course-v1:BUCM+2018122604X+2018_T2", "name": "循证护理", "prerequisites": []}
+{"id": "C_course-v1:HBPU+20181226006X+2018_T2", "name": "高级语言程序设计", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00310222X+2019_T1", "name": "创客培养：趣味力学实验与制作（2019春）", "prerequisites": []}
+{"id": "C_course-v1:qdu+2018122608X+2018_T2", "name": "电工电子技术", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1"]}
+{"id": "C_course-v1:BNU+2018122603X+2018_T2", "name": "篮球——基本技术", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+60250131X+2019_T1", "name": "大数据科学与应用系列讲座（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80590892+2019_T1", "name": "公共事务伦理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+34000888X+2019_T1", "name": "走进医学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HUBU+HU08002X+2019_T1", "name": "运动与健康（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HNU+AR03015+2019_T1", "name": "中国古代建筑艺术（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00740043_1x+2019_T1", "name": "C++语言程序设计基础（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CQU+2018122703+2018_T2", "name": "基础会计学", "prerequisites": []}
+{"id": "C_course-v1:BFU+2018122709+2018_T2", "name": "风景园林艺术原理", "prerequisites": []}
+{"id": "C_course-v1:nxu+2018122711+2018_T2", "name": "解读西夏", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00740043_2x+2019_T1", "name": "C++语言程序设计进阶（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BSU+BSU001+2019_T1", "name": "走近冬奥会（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40809644X+2019_T1", "name": "界面设计导论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SCUT+2018122802X+2018_T2", "name": "小白学人工智能", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20220332X+2019_T1", "name": "日语与日本文化（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40140632X+2019_T1", "name": "流体机械基础（2019春）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:TsinghuaX+30240233X+2019_T1", "name": "程序设计基础（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20220214X+2019_T1", "name": "电路原理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HUBU+20170914001+2019_T1", "name": "房地产开发与经营（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40050444X+2019_T1", "name": "大气污染控制工程（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HEBUT+20180301001+2019_T1", "name": "建设项目管理（2019春）", "prerequisites": ["C_course-v1:FUDANx+ECON13000701+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+70000662+2019_T1", "name": "大数据与城市规划(2019春)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+2017091801X+2019_T1", "name": "PPP理论与实践（2019春）", "prerequisites": ["C_course-v1:CIE+CIE2017002+2019_T1"]}
+{"id": "C_course-v1:BIFT+2018122901X+2018_T2", "name": "服装大师的设计历程", "prerequisites": []}
+{"id": "C_course-v1:BIFT+2018122902X+2018_T2", "name": "服装CAD应用", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+2018011901X+2019_T1", "name": "Petri网：模型、理论与应用（2019春）", "prerequisites": []}
+{"id": "C_course-v1:UIR+2018040201X+2019_T1", "name": "大学生国家安全教育（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CSU+CSU002+2019_T1", "name": "医学文献检索（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HQU+20180307009+2019_T1", "name": "商务礼仪与沟通艺术（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SXPI+20170828001x+2019_T1", "name": "电气控制系统装接与调试（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SXPI+40281x+2019_T1", "name": "PLC应用技术（2019春）", "prerequisites": []}
+{"id": "C_course-v1:LUIBE+2018080602+2019_T1", "name": "会展策划与管理(2019春)", "prerequisites": []}
+{"id": "C_course-v1:LUIBE+201808064+2019_T1", "name": "百年旅顺(2019春)", "prerequisites": []}
+{"id": "C_course-v1:LUIBE+2018080601+2019_T1", "name": "影视鉴赏(2019春)", "prerequisites": []}
+{"id": "C_course-v1:LUIBE+201808063+2019_T1", "name": "中国民俗文化赏析(2019春)", "prerequisites": []}
+{"id": "C_course-v1:snnu+20180920X+2019_T1", "name": "逻辑思维与写作（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SXPI+20180919X+2019_T1", "name": "创新创业基础（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CSU+2018020101X+2019_T1", "name": "大学生心理健康教育（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10421094X+2019_T1", "name": "线性代数(1)(2019春)", "prerequisites": []}
+{"id": "C_course-v1:CSU+20180910X+2019_T1", "name": "医学实验技术与方法新进展（2019春）", "prerequisites": ["C_course-v1:CSU+25071011201+2019_T1"]}
+{"id": "C_course-v1:NJU+2018041201X+sp", "name": "走近中华优秀传统文化（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:XIYOU+20180208+2019_T1", "name": "编译技术（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+20240103X+2019_T1", "C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:TsinghuaX+laserapp+2019_T1", "name": "激光及其应用（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1"]}
+{"id": "C_course-v1:HIT+13SC20301820+2019_T1", "name": "会计信息系统（2019春）", "prerequisites": ["C_course-v1:SCUT+145223+2019_T1", "C_course-v1:ACCA+FA2_X+2019_T1"]}
+{"id": "C_course-v1:CHD+20180622001+2019_T1", "name": "道路工程材料（2019春）", "prerequisites": []}
+{"id": "C_course-v1:ACCA+MA1_X+2019_T1", "name": "初级管理会计（2019春）", "prerequisites": ["C_course-v1:ACCA+FA1_X+2019_T1"]}
+{"id": "C_course-v1:ACCA+MA2_X+2019_T1", "name": "中级管理会计（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10690012+2019_T1", "name": "学术之道 （2019春）", "prerequisites": []}
+{"id": "C_course-v1:BFU+15002360+2019_T1", "name": "创业管理四季歌：艺术思维与技术行动（2019春）", "prerequisites": []}
+{"id": "C_course-v1:ZAFU+20171218+2019_T1", "name": "管理学原理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+0910042801+2019_T1", "name": "普通化学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:ACCA+FA2_X+2019_T1", "name": "中级财务会计（2019春）", "prerequisites": []}
+{"id": "C_course-v1:ACCA+FA2_X_en+2019_T1", "name": "Intermediate Bookkeeping（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2018011801X+2019_T1", "name": "恢复生态学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+0610073981+2019_T1", "name": "西方哲学I：古代部分（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+1010070372+2019_T1", "name": "微生物学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+GE310141091+2019_T1", "name": "新闻摄影（2019春）", "prerequisites": []}
+{"id": "C_course-v1:ACCA+MA2_X_en+2019_T1", "name": "Intermediate Management Accounting（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:ACCA+FA1_X+2019_T1", "name": "初级财务会计（2019春）", "prerequisites": []}
+{"id": "C_course-v1:ACCA+MA1_X_en+2019_T1", "name": "Introduction to Management Accounting（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BNU+PHI2107404101+2019_T1", "name": "《纯粹理性批判》导论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2017001+2019_T1", "name": "环境污染事件与应急响应（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+0610073991+2019_T1", "name": "西方哲学II：近代部分（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80511503X+2019_T1", "name": "营销：人人都需要的一门课（2019春）", "prerequisites": ["C_course-v1:BNU+0210021441+2019_T1", "C_course-v1:FUDANx+ECON13000701+2019_T1"]}
+{"id": "C_course-v1:ACCA+FA1_X_en+2019_T1", "name": "Introduction to Bookkeeping（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:SichuanU+106588020+sp", "name": "巴蜀文化（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:BurgundyX+82005+2019_T1", "name": "葡萄和葡萄酒（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:HRBEU+2018081301+sp", "name": "知识产权法与创新保护（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:GZHU+136300904+2019_T1", "name": "生死学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:XJTU+20171025001+2019_T1", "name": "大学化学(2019春)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20740084X+2019_T1", "name": "基于Linux的C++（2019春）", "prerequisites": []}
+{"id": "C_course-v1:FAFU+55071003+2019_T1", "name": "寄生虫与公共卫生（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80000522X+2019_T1", "name": "建筑室内热环境模拟及应用（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40040152X+2019_T1", "name": "地质学与工程地质（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40130653X+2019_T1", "name": "测试与检测技术基础（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000013X+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+20240103X+2019_T1", "name": "汇编语言程序设计（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+THU201606X+2019_T1", "name": "高级大数据系统（2019春）", "prerequisites": ["C_course-v1:SCUT+145055+2018_T2", "C_course-v1:TsinghuaX+30240243X+sp"]}
+{"id": "C_course-v1:TsinghuaX+30260032X_+2019_T1", "name": "MEMS与微系统（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+10430575X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+60250101X+2019_T1", "name": "英文科技论文写作与学术报告（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+THU201602+2019_T1", "name": "创新材料学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40260173X+2019_T1", "name": "数字集成电路分析与设计（2019春）", "prerequisites": ["C_course-v1:GIT+0500002402+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:xuetangX+MOOC102+2019_T1", "name": "e时代的教与学——慕课引发的混合式教学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00510888X+2019_T1", "name": "创业启程（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HEBUT+20180207002+2019_T1", "name": "水彩（2019春）", "prerequisites": ["C_course-v1:HEBUT+20180207002+2019_T1"]}
+{"id": "C_course-v1:MITx+15_390x_1+2019_T1", "name": "创业101：你的客户是谁？（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+60610231_p1+2019_T1", "name": "工程职业伦理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+THU00001X+2019_T1", "name": "决胜移动互联网：创业者的商业模式课（2019春）", "prerequisites": []}
+{"id": "C_course-v1:XAAU+20180411001+2019_T1", "name": "《统万城》导读(2019春)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80590952X+2019_T1", "name": "公共危机管理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20120143X+2019_T1", "name": "工程制图 （2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10610193X+2019_T1", "name": "中国近现代史纲要（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10610183_2X+2019_T1", "name": "思想道德修养与法律基础 （2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10620204X+2019_T1", "name": "马克思主义基本原理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00690092X+2019_T1", "name": "逻辑学概论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SCUT+SM001+2019_T1", "name": "企业战略管理（2019春）", "prerequisites": ["C_course-v1:BNU+0210021441+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+44100343X+2019_T1", "name": "Web前端攻城狮（2019春）", "prerequisites": ["C_course-v1:HBPU+20181226006X+2018_T2"]}
+{"id": "C_course-v1:TsinghuaX+10610224X+2019_T1", "name": "毛泽东思想和中国特色社会主义理论体系概论（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+2018031601X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+30640014X+2019_T1", "name": "生活英语听说（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+90640012X_1+2019_T1", "name": "生活英语进阶（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+30640014X+2019_T1", "C_course-v1:TsinghuaX+90640012X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+90640012X+2019_T1", "name": "生活英语读写（2019春）", "prerequisites": []}
+{"id": "C_course-v1:LUIBE+2018030701+2019_T1", "name": "揭开潜意识心理的奥秘（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+01030132X+2019_T1", "name": "大学历史与文化（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80160283+2019_T1", "name": "系统化产品设计与开发（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HEBNU+20180621001+2019_T1", "name": "高频电子线路（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+20250064+sp", "C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:TsinghuaX+02070251X+2019_T1", "name": "职业探索与选择（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80590982X+2019_T1", "name": "公共管理前沿——社会企业家精神（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CQU+2017121401X+2019_T1", "name": "结构力学（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+20330334X_2015_2+sp", "C_course-v1:SXPI+20171101002+sp", "C_course-v1:TsinghuaX+AP000013X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+00690342X+2019_T1", "name": "西方哲学精神探源（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BFU+15012510+2019_T1", "name": "日语交际功能语法（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BFU+15023710+2019_T1", "name": "山野菜认知与开发利用（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+TSINGHUA107+2019_T1", "name": "经典与思考——人文清华大师面对面（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80000271X+2019_T1", "name": "住宅精细化设计（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00690302_2+2019_T1", "name": "携手向花间——昆曲经典剧目欣赏（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+Grasshopper101+2019_T1", "name": "Grasshopper参数化设计与建模（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20320074X+2019_T1", "name": "ARM微控制器与嵌入式系统（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+34000312X+2019_T1", "name": "医学寄生虫学(2019春)", "prerequisites": []}
+{"id": "C_course-v1:CSU+20180920X+2019_T1", "name": "临床流行病学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:XYSFXY+20181024X+2019_T1", "name": "教育环境中跨文化交流的秘密（2019春）", "prerequisites": []}
+{"id": "C_course-v1:PPSUC+2017052301+2019_T1", "name": "大学生安全与保护（2019春）", "prerequisites": []}
+{"id": "C_course-v1:ZUEL+20181108X+2019_T1", "name": "互联网企业估值（2019春）", "prerequisites": ["C_course-v1:BNU+0210021441+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+70800232X+2019_T1", "name": "视觉传达设计思维与方法(2019春)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+70240183x_1+2019_T1", "name": "计算几何（2019春）", "prerequisites": ["C_course-v1:SCUT+145055+2018_T2"]}
+{"id": "C_course-v1:NBCCx+NBCC000502+2019_T1", "name": "英汉语言对比（2019春）", "prerequisites": []}
+{"id": "C_course-v1:ZUELX+B0601353+2019_T1", "name": "组织行为学——如何有效管理员工行为（2019春）", "prerequisites": ["C_course-v1:BNU+0210021441+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+80611322X+2019_T1", "name": "教育社会学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CQU+MATH20041X+2019_T1", "name": "概率论与数理统计（2019春）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:TsinghuaX+64100033X+2019_T1", "name": "大数据系统基础（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+30240243X+sp"]}
+{"id": "C_course-v1:CUC+119511+2019_T1", "name": "从音乐到影像（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80150193X+2019_T1", "name": "汽车碰撞安全基础(2019春)", "prerequisites": ["C_course-v1:TsinghuaX+20330334X_2015_2+sp"]}
+{"id": "C_course-v1:SEU+00690803+2019_T1", "name": "大学国文——先秦至唐文学赏析（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30700313X+2019_T1", "name": "心理学概论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80000822X+2019_T1", "name": "适老居住空间与环境设计（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80000901X_1+2019_T1", "name": "中国建筑史——史前至两宋辽金（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CUPB+100722C004+2019_T1", "name": "财务报表分析逻辑与技巧（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HUST+0200421+2019_T1", "name": "财务报表分析（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80000901X_2+2019_T1", "name": "中国建筑史——元明清与民居（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+80000901X_1+sp"]}
+{"id": "C_course-v1:TsinghuaX+10430575X+2019_T1", "name": "力学（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:FUDANx+ECON130088+2019_T1", "name": "互联网金融（2019春）", "prerequisites": []}
+{"id": "C_course-v1:FUDANx+ECON13000701+2019_T1", "name": "经济学（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:FUDANx+ECON1300812+2019_T1", "name": "金融工程（2019春）", "prerequisites": []}
+{"id": "C_course-v1:FUDANx+ECON130080+2019_T1", "name": "投资银行学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:FUDANx+SOSC120007+2019_T1", "name": "货币金融学（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+THUSEM002+2019_T1", "C_course-v1:FUDANx+ECON13000701+2019_T1"]}
+{"id": "C_course-v1:ZZU+334068+2019_T1", "name": "定格身边的美——数码摄影攻略（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CUPB+100203E003+2019_T1", "name": "采油工程（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+10430575X+2019_T1"]}
+{"id": "C_course-v1:CUPB+CUPB201702+2019_T1", "name": "中国石油文化（2019春）", "prerequisites": []}
+{"id": "C_course-v1:JNUX+jnu2017001X+2019_T1", "name": "《红楼梦》的空间艺术（2019春）", "prerequisites": []}
+{"id": "C_course-v1:KMUSTX+8209001+2019_T1", "name": "生活中的市场营销学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30040263X+sp", "name": "土力学（自主模式）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:JNU+07009215+2019_T1", "name": "自然保护与生态安全：拯救地球家园（2019春）", "prerequisites": []}
+{"id": "C_course-v1:JXUST+JXUST2016001+2019_T1", "name": "人工智能（2019春）", "prerequisites": []}
+{"id": "C_course-v1:JNU+11022048+2019_T1", "name": "管理咨询（2019春）", "prerequisites": []}
+{"id": "C_course-v1:JNU+03010015+2019_T1", "name": "国际私法（2019春）", "prerequisites": []}
+{"id": "C_course-v1:JNU+11020009+2019_T1", "name": "管理学原理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30590023+2019_T1", "name": "社会研究方法（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HQU+20180307002+2019_T1", "name": "科学运动与健康（2019春）", "prerequisites": []}
+{"id": "C_course-v1:USTC+AP000011X+2019_T1", "name": "多元微积分（先修课）（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+20180131001+2019_T1", "name": "山水画技法（2019春）", "prerequisites": []}
+{"id": "C_course-v1:GZHU+000001004+2019_T1", "name": "中国近现代史纲要（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40250074X+2019_T1", "name": "自动控制理论（1）（2019春）", "prerequisites": ["C_course-v1:GIT+0500002402+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+40250683X+2019_T1", "name": "自动控制理论（2）（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+40250683X+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:HUBU+20190124X+2019_T1", "name": "管理沟通的艺术", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+AP000015X+2019_T1", "name": "大学化学（先修课）（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+AP000001X+2019_T1", "name": "大学化学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+AP201601X+2019_T1", "name": "大学物理（先修课）-电磁学（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+AP000002X+2019_T1", "name": "大学物理（先修课）-力学（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1", "C_course-v1:TsinghuaX+10430575X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+AP000005X+2019_T1", "name": "微积分（先修课）（2019春）", "prerequisites": []}
+{"id": "C_course-v1:RUCX+AP000010X+2019_T1", "name": "微观经济学原理（先修课）（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+AP000016X+2019_T1", "name": "普通生物学（先修课）（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10450034_1X_2X+2019_T1", "name": "普通生物学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+AP000003X+2019_T1", "name": "概率论与数理统计 （2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+AP000014X+2019_T1", "name": "概率论与数理统计 （先修课）（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+AP000013X+2019_T1", "name": "线性代数（先修课）（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+AP000008X+2019_T1", "name": "通用学术英语（先修课）（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+AP000004X+2019_T1", "name": "简明线性代数（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CSU+20180919X+2019_T1", "name": "医学科研设计(2019春)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80030222X+2019_T1", "name": "钢筋混凝土耐久性导论(2019春)", "prerequisites": ["C_course-v1:imvtc+2018122702+2019_T1"]}
+{"id": "C_course-v1:SCUEC+20171229001+2019_T1", "name": "Hello,心理学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+70240403+2019_T1", "name": "大数据机器学习（2019春）", "prerequisites": ["C_course-v1:JXUST+JXUST2016001+2019_T1"]}
+{"id": "C_course-v1:IMUN+5024610+2019_T1", "name": "世界文明史（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+8070071301+2019_T1", "name": "积极心理学（上）厚德载物篇（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+8070071302+2019_T1", "name": "积极心理学（下）自强不息篇（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20180412+2019_T1", "name": "花卉鉴赏（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SCUT+2019012401X+SP", "name": "计算机辅助设计（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:GZUCM+2019012801X+2019_T1", "name": "创业新浪潮：医药健康创新创业", "prerequisites": []}
+{"id": "C_course-v1:dlmu+20180906+2019_T1", "name": "航海概论(2019春)", "prerequisites": []}
+{"id": "C_course-v1:ZUEL+2019012806X+2019_T1", "name": "以案说法 ", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80512073X+2019_T1", "name": "财务分析与决策（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+JRFX01+2019_T1", "name": "财务分析与估值（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+00510133X+2019_T1"]}
+{"id": "C_course-v1:HEBUT+20180208006+2019_T1", "name": "美术鉴赏（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HNU+20180706002+2019_T1", "name": "中国近现代史纲要（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CSU+25071011201+2019_T1", "name": "分子生物学（2019春）", "prerequisites": ["C_course-v1:PekingX+2018122102X+2019_T1"]}
+{"id": "C_course-v1:KMUSTX+8219011+2019_T1", "name": "理工学术英语（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BIT+100070018+2019_T1", "name": "C语言程序设计（上）(2019春)", "prerequisites": []}
+{"id": "C_course-v1:BIT+100070018+2019_T2", "name": "C语言程序设计（下）(2019春)", "prerequisites": ["C_course-v1:BIT+100070018+2019_T2"]}
+{"id": "C_course-v1:rcoe+mooc103+2019_T1", "name": "e时代的新课堂——在线教育概论(2019春)", "prerequisites": []}
+{"id": "C_course-v1:MIL+MIL2016001+2019_T1", "name": "我国周边14个陆地邻国基本情况介绍（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40160092X+2019_T1", "name": "生产计划与控制（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+TsinghuaX+2019_T1", "name": "高技术与现代局部战争（2019春）", "prerequisites": ["C_course-v1:NDU+2019042601X+2019_T2"]}
+{"id": "C_course-v1:TsinghuaX+00990021X+2019_T1", "name": "绿色建筑与可持续发展（2019春）", "prerequisites": []}
+{"id": "C_course-v1:GIT+0500002402+2019_T1", "name": "电路原理（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1", "C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:FZXY+20180301001+2019_T1", "name": "晶体光学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CSU+2018020201X+2019_T1", "name": "主题英语（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SEU+00690803_2+2019_T1", "name": "大学国文——北宋至现代文学赏析（2019春）", "prerequisites": []}
+{"id": "C_course-v1:JNUX+07009156X+2019_T1", "name": "中医与诊断-学做自己的医生（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10421075X+2019_T1", "name": "微积分——极限理论与一元函数（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+60510102X+2019_T1", "name": "创办新企业（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10421084X+2019_T1", "name": "微积分——多元函数与重积分（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000013X+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+60610231+2019_T1", "name": "工程伦理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2017053101X+2019_T1", "name": "科研伦理与学术规范（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BJTU+2017052601X+2019_T1", "name": "技术创新简史（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30803273X+2019_T1", "name": "中国工笔人物画赏析与创作（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40670702X+2019_T1", "name": "影视制作入门（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+40670453X+2019_T1"]}
+{"id": "C_course-v1:FAFU+20180919X+2019_T1", "name": "乐商对话（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20740042X+2019_T1", "name": "计算机文化基础（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20440333X+2019_T1", "name": "有机化学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:FJTCM+20180622001+2019_T1", "name": "健康信息学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:GZHU+20180718001+2019_T1", "name": "动态几何（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SichuanU+302074030+2019_T1", "name": "机械原理(2019春）", "prerequisites": ["C_course-v1:TsinghuaX+20330334X_2015_2+sp"]}
+{"id": "C_course-v1:DYU+dyuwgzbbm+2019_T1", "name": "为公司把把脉", "prerequisites": ["C_course-v1:HUST+0200421+2019_T1"]}
+{"id": "C_course-v1:NCTU+wym+2019_T1", "name": "明朝心学的智慧发展史：王阳明带你打土匪(2019春)", "prerequisites": []}
+{"id": "C_course-v1:BNU+ENV13018+2019_T1", "name": "环境规划(2019春)", "prerequisites": []}
+{"id": "C_course-v1:BNU+2018122405X+2019_T1", "name": "一舞一世界——世界经典舞蹈赏析（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2017071001X+2019_T1", "name": "环境地学原理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40130753+2019_T1", "name": "光电仪器设计（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1"]}
+{"id": "C_course-v1:BNU+2018122601X+2019_T1", "name": "意在象中——中国古典诗词鉴赏（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CUC+2018081702X+2019_T1", "name": "新媒体编创（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+CHE21128011+2019_T1", "name": "计算化学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:MITx+15_671x+2019_T1", "name": "u.lab 0x: 基于觉察的系统创变：感知和共创未来（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+00680142X+2019_T1", "name": "儒家修身之道（2019春）", "prerequisites": []}
+{"id": "C_course-v1:MITx+15_671_1X+2019_T1", "name": "u.lab 1x：向未来学习 引领系统创变（2019春）", "prerequisites": []}
+{"id": "C_course-v1:UC_BerkeleyX+ColWri2_1x_2015_T1+2019_T1", "name": "英文写作指导——写作入门（2019春）", "prerequisites": []}
+{"id": "C_course-v1:XJTU+CHEM330109+2019_T1", "name": "简明有机化学（先修课）（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+0210021441+2019_T1", "name": "管理学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:NCTU+lhtl+2019_T1", "name": "学会学：学习之道（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+2018031601X+2019_T1", "name": "党的十九大精神概论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20190222+2019_T1", "name": "病理学", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+THU201607+2019_T1", "name": "高等化工热力学（上）（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1", "C_course-v1:NEU+2019012202X+2019_T2"]}
+{"id": "C_course-v1:TsinghuaX+70340063X+2019_T1", "name": "高等化工热力学（下）（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1", "C_course-v1:NEU+2019012202X+2019_T2"]}
+{"id": "C_course-v1:XJTU+C00204+2019_T1", "name": "中国哲学经典著作导读（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HUBU+HU08001X+2019_T1", "name": "工程制图（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SichuanU+306197030+2019_T1", "name": "土力学（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1", "C_course-v1:SXPI+20171101002+sp", "C_course-v1:TsinghuaX+30040323X+sp"]}
+{"id": "C_course-v1:SCUT+145223+2019_T1", "name": "大学计算机基础（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40990255+2019_T1", "name": "建筑环境学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HUBU+20181017X+2019_T1", "name": "无机化学(2019春)", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20190225x+2019_T1", "name": "工业生产管理概论", "prerequisites": ["C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:ZUELX+20171127001+2019_T1", "name": "创业基础（2019春）", "prerequisites": []}
+{"id": "C_course-v1:JNUX+jnu05011190X+2019_T1", "name": "华文趣味教学法（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+THUSEM002+2019_T1", "name": "微观经济学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:NBCCx+NBCC000002+2019_T1", "name": "茶艺（2019春）", "prerequisites": ["C_course-v1:NBCCx+NBCC000002+2019_T1"]}
+{"id": "C_course-v1:TsinghuaX+40150442+2019_T1", "name": "汽车构造（2）（2019春）", "prerequisites": ["C_course-v1:TsinghuaX+20330334X_2015_2+sp", "C_course-v1:SichuanU+302074030+2019_T1"]}
+{"id": "C_course-v1:imvtc+2018122701+2019_T1", "name": "网络综合布线（2019春）", "prerequisites": ["C_course-v1:SCUT+145033+sp"]}
+{"id": "C_course-v1:SCUT+20180427001+2019_T1", "name": "微积分1（Calculus I）（2019春）", "prerequisites": []}
+{"id": "C_course-v1:GZLIS+070200140+2019_T1", "name": "印刷色彩基础与实务（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+40670453X+2019_T1", "name": "新闻摄影（2019春）", "prerequisites": []}
+{"id": "C_course-v1:JNU+20180722001+2019_T1", "name": "生活中的货币时间价值（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+L061101X+sp", "name": "庄子哲学导读（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+61030031X+2019sp", "name": "教育学导引（自主模式）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30230931X+2019_T1", "name": "电子信息科学与技术导引(1)(2019春) ", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30130274X+2019_T1", "name": "光学工程基础(2019春)", "prerequisites": ["C_course-v1:TsinghuaX+AP000002X+2019_T1", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:HQU+20180307006+2019_T1", "name": "中华戏曲艺术鉴赏（2019春）", "prerequisites": []}
+{"id": "C_course-v1:YAU+20181108X+2019_T1", "name": "解剖与生活(2019春)", "prerequisites": []}
+{"id": "C_course-v1:ZJFF+000516+2019_T1", "name": "商务礼仪（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BSU+2018122403X+2019_T1", "name": "女性修与养：女性运动、营养与健康（2019春）", "prerequisites": []}
+{"id": "C_course-v1:KMUSTX+1803168+2019_T1", "name": "基因工程（2019春）", "prerequisites": ["C_course-v1:BNU+1010070372+2019_T1", "C_course-v1:CSU+25071011201+2019_T1"]}
+{"id": "C_course-v1:YSU+20180301001+2019_T1", "name": "工程制图基础(2019春)", "prerequisites": []}
+{"id": "C_course-v1:HQU+20180307008+2019_T1", "name": "马克思主义基本原理概论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:SCUEC+20180620001+2019_T1", "name": "谈医说药（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+10450012X+2019_T1", "name": "现代生物学导论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:XMU+2019031401X+2019_T1", "name": "儿科护理学", "prerequisites": []}
+{"id": "C_course-v1:SWU+2019031403X+2019_T1", "name": "校园心理学：让每一个学生顺利成长", "prerequisites": []}
+{"id": "C_course-v1:BIFT+1301990078+2019_T1", "name": "服装数字科技（2019春）", "prerequisites": []}
+{"id": "C_course-v1:PekingX+2018122102X+2019_T1", "name": "病理生理学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:PekingX+2018122101X+2019_T1", "name": "护理研究方法（2019春）", "prerequisites": ["C_course-v1:XMU+2019031401X+2019_T1"]}
+{"id": "C_course-v1:chzu+ZJ1867357+2019_T1", "name": "信息素养-互联网+时代的学习与生活（2019春）", "prerequisites": ["C_course-v1:SCUT+145223+2019_T1"]}
+{"id": "C_course-v1:qhnu+20181212x+2019_T1", "name": "藏语言文字学概论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:gztrc+2018122601+2019_T1", "name": "教学的艺术（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BUCM+2018122604X+2019_T1", "name": "循证护理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+2019032101X+2019_T2", "name": "明·园境赏析：明代36佳境", "prerequisites": []}
+{"id": "C_course-v1:shsmu+shsmu001+2019_T1", "name": "常见病的健康管理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:imvtc+2018122702+2019_T1", "name": "建筑材料(2019春)", "prerequisites": ["C_course-v1:NEU+2019012202X+2019_T2"]}
+{"id": "C_course-v1:GDUT+2018120405X+2019_T1", "name": "音乐漫步(2019春)", "prerequisites": []}
+{"id": "C_course-v1:NGO20X+USTC2016002+2019_T1", "name": "公益众筹（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BNU+2018122602X+2019_T1", "name": "中国电影经典影片鉴赏（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+04000083+2019_T1", "name": "肿瘤生物学概论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:btbu+20181228+2019_T1", "name": "市场营销学(2019春)", "prerequisites": ["C_course-v1:BNU+0210021441+2019_T1"]}
+{"id": "C_course-v1:BSU+2018122405X+2019_T1", "name": "华尔兹舞基础教程（2019春）", "prerequisites": []}
+{"id": "C_course-v1:HEBUT+2019040202X+2019_T1", "name": "低频电子线路", "prerequisites": ["C_course-v1:SXPI+20171101002+sp", "C_course-v1:TsinghuaX+AP000013X+2019_T1"]}
+{"id": "C_course-v1:USTC+SE20190403X+sp", "name": "互联网体系结构（自主模式）", "prerequisites": ["C_course-v1:SCUT+145033+sp"]}
+{"id": "C_course-v1:QLU+2018122607X+2019_T1", "name": "装饰图案(2019春）", "prerequisites": []}
+{"id": "C_course-v1:BFU+2018122709+2019_T1", "name": "风景园林艺术原理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:NEU+2018122401X+2019_T1", "name": "无机化学", "prerequisites": []}
+{"id": "C_course-v1:SCUEC+2018112001X+2019_T1", "name": "民族手工艺术——走进生活（2019春）", "prerequisites": []}
+{"id": "C_course-v1:XJTU+2018112004X+2019_T1", "name": "国防教育——热点问题（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+34100333+2019_T1", "name": "软件理论基础（2019春）", "prerequisites": []}
+{"id": "C_course-v1:CMU+2018122401X+2019_T1", "name": "传染病学（2019春）", "prerequisites": ["C_course-v1:CSU+25071011201+2019_T1", "C_course-v1:TsinghuaX+20190222+2019_T1"]}
+{"id": "C_course-v1:DUT+3412113011+2019_T1", "name": "高等数学习题课——级数，多元函数微积分（2019春）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp", "C_course-v1:TsinghuaX+AP000005X+2019_T1"]}
+{"id": "C_course-v1:nxu+2018122712+2019_T1", "name": "醉美葡萄酒（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BSU+2018122404X+2019_T1", "name": "网球技术动作入门（2019春）", "prerequisites": []}
+{"id": "C_course-v1:nxu+2018122711+2019_T1", "name": "解读西夏（2019春）", "prerequisites": []}
+{"id": "C_course-v1:BFU+2018122710+2019_T1", "name": "植物景观规划设计导论（2019春）", "prerequisites": []}
+{"id": "C_course-v1:nxu+2018122713+2019_T1", "name": "人类遗传探秘（2019春）", "prerequisites": []}
+{"id": "C_course-v1:jxust+2018122701X+2019_T1", "name": "诗情画意的光学（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+30240332+2019_T1", "name": "JAVA程序设计进阶（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TJUFE+2018122506X+2019_T1", "name": "物流管理（2019春）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+20180919X+2019_T1", "name": "经济学原理（上）（2019春）", "prerequisites": []}
+{"id": "C_course-v1:NDU+2019042601X+2019_T2", "name": "军事理论", "prerequisites": []}
+{"id": "C_course-v1:CSU+2019043001X+2019_T1", "name": "医患沟通技能学", "prerequisites": []}
+{"id": "C_course-v1:CSMZXY+2018111301X+2019_T2", "name": "婚礼文化（2019夏）", "prerequisites": []}
+{"id": "C_course-v1:SYJU+030020406+2019_T1", "name": "暖通空调(2019春)", "prerequisites": ["C_course-v1:TsinghuaX+40990255+2019_T1"]}
+{"id": "C_course-v1:HBNU+2019051509X+2019_T1", "name": "5G与人工智能", "prerequisites": []}
+{"id": "C_course-v1:TCIS+2019032101X+2019_T2", "name": "中华文化要义：大一统（2019夏）", "prerequisites": []}
+{"id": "C_course-v1:TCIS+2019032501X+2019_T2", "name": "中华商道与企业家精神（2019夏）", "prerequisites": []}
+{"id": "C_course-v1:TCIS+2019032502X+2019_T2", "name": "中国共产党与中华民族伟大复兴（2019夏）", "prerequisites": []}
+{"id": "C_course-v1:CSU+82150112201+2019_T2", "name": "循证医学（2019夏）", "prerequisites": []}
+{"id": "C_course-v1:TW+2018052501X+2019_T3", "name": "STEM课程设计与案例分析（2019秋）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+60700052X+2019_T2", "name": "数据科学导论（2019夏）", "prerequisites": []}
+{"id": "C_course-v1:TsinghuaX+80515182X+2019_sp", "name": "麦肯锡“全球领导力”自主模式", "prerequisites": []}
+{"id": "C_course-v1:NEU+2019012201X+2019_T2", "name": "物理化学（上）（2019夏）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp"]}
+{"id": "C_course-v1:NEU+2019012202X+2019_T2", "name": "物理化学（下）（2019夏）", "prerequisites": ["C_course-v1:SXPI+20171101002+sp"]}
